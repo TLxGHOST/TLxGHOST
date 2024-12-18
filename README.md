@@ -1,6 +1,6 @@
 # Hi, I'm Tejanshu
 
-<img src="https://github.com/Anshu05112004/Anshu05112004/raw/main/programmer.gif">
+<img src="https://github.com/TLxGHOST/TLxGHOST/raw/main/programmer.gif">
 
 ## Beginner
 *   🌍  I'm based in India
@@ -49,7 +49,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/rishavanand](https://github.com/Anshu05112004?tab=repositories" target="_blank">
+<a href="https://github.com/rishavanand](https://github.com/TLxGHOST?tab=repositories" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/gamotrix" target="_blank">
@@ -58,7 +58,7 @@
 <a href="https://instagram.com/anshubhandari04" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://codepen.com/Anshu05112004" target="_blank">
+<a href="https://codepen.com/TLxGHOST" target="_blank">
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>  
 </div>  
